@@ -14,7 +14,6 @@ def run_windows_script():
     machine = WindowsClickScript()
     machine.run_machine();
 
-
 if __name__ == "__main__":
     #run_click_script();
     #run_test_script();
