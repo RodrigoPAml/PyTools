@@ -22,7 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="main.py" />
-    <Compile Include="src\scripts\WindowsClickScript.py" />
+    <Compile Include="src\scripts\WindowsLogoScript.py" />
     <Compile Include="src\scripts\ClickScript.py" />
     <Compile Include="src\scripts\TestScript.py" />
     <Compile Include="src\tools\MouseController.py" />

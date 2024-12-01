@@ -1,4 +1,4 @@
-from src.scripts.WindowsClickScript import WindowsClickScript
+from src.scripts.WindowsLogoScript import WindowsLogoScript
 from src.scripts.ClickScript import ClickScript
 from src.scripts.TestScript import TestScript
 
@@ -11,7 +11,7 @@ def run_click_script():
     machine.run_machine();
 
 def run_windows_script():
-    machine = WindowsClickScript()
+    machine = WindowsLogoScript()
     machine.run_machine();
 
 if __name__ == "__main__":

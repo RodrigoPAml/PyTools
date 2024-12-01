@@ -9,7 +9,7 @@ from src.tools.TemplateMatch import TemplateMatcher
 '''
 Script to match template the windows logo and display it
 '''
-class WindowsClickScript(StateMachine):
+class WindowsLogoScript(StateMachine):
     def __init__(self):
         super().__init__()
         self.mouse_controller = MouseController()
