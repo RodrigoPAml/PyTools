@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bb821aca-366b-4ddd-90de-2ba982068ed2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>src\main.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="src\main.py" />
+    <Compile Include="main.py" />
     <Compile Include="src\scripts\WindowsClickScript.py" />
     <Compile Include="src\scripts\ClickScript.py" />
     <Compile Include="src\scripts\TestScript.py" />
