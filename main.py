@@ -1,4 +1,4 @@
-from scripts.WindowsClickScript import WindowsClickScript
+from src.scripts.WindowsClickScript import WindowsClickScript
 from src.scripts.ClickScript import ClickScript
 from src.scripts.TestScript import TestScript
 

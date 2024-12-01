@@ -6,6 +6,9 @@ from src.tools.ScreenCapture import ScreenCapture
 from src.tools.StateMachine import StateMachine
 from src.tools.TemplateMatch import TemplateMatcher
 
+'''
+Script to match template the windows logo and display it
+'''
 class WindowsClickScript(StateMachine):
     def __init__(self):
         super().__init__()
